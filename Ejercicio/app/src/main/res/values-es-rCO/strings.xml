@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi aplicación</string>
+    <string name="btn1_label">Presioname</string>
+    <string name="btn_login">Ingresar</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyCalc v1.2</string>
+    <string name="lbl_n1">Number One</string>
+    <string name="lbl_n2">Number Two</string>
+    <string name="lbl_n3">Answer</string>
+    <string name="btn">Run</string>
+    <string name="ope1">Add</string>
+    <string name="ope2">Subtract</string>
+    <string name="ope3">Multiply</string>
+    <string name="ope4">Divide</string>
+    <string name="tc">Fill all the fields</string>
+    <string name="c1">Enter a number in the first field</string>
+    <string name="c2">Enter a number in the second field</string>
+    <string name="text1">Enter a number</string>
+    <string name="text2">Enter a number</string>
+</resources>

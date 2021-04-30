@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Calculadora v1.2</string>
+    <string name="lbl_n1">Número uno</string>
+    <string name="lbl_n2">Número Dos</string>
+    <string name="lbl_n3">Respuesta</string>
+    <string name="btn">Ejecutar</string>
+    <string name="ope1">Sumar</string>
+    <string name="ope2">Restar</string>
+    <string name="ope3">Multiplicar</string>
+    <string name="ope4">Dividir</string>
+    <string name="tc">Llenar todos los campos</string>
+    <string name="c1">Ingresar un número en el primer campo</string>
+    <string name="c2">Ingresar un número en el segundo campo</string>
+    <string name="text1">Ingresar un número</string>
+    <string name="text2">Ingresar un número</string>
+</resources>

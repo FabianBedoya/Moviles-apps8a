@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Waether</string>
+    <string name="Tex_Search">Search</string>
+    <string name="Tex_Current">Current:</string>
+    <string name="Tex_Min">Min:</string>
+    <string name="Tex_Max">Max:</string>
+    <string name="Tex_Weather">Weather:</string>
+    <string name="Tex_CurrentR">Current Weather</string>
+    <string name="Tex_MinR">Min Weather</string>
+    <string name="Tex_MaxR">Max Weather</string>
+    <string name="Tex_WeatherR">Here WeatherVal</string>
+    <string name="Btn_Search">SEARCH WAETHER</string>
+    <string name="Title">HOW IS THE WAETHER?</string>
+    <string name="Btn_Maps">GO TO MAPS</string>
+</resources>

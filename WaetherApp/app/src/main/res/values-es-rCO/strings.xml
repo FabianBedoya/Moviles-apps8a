@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="Tex_Search">Buscar</string>
+    <string name="Tex_Weather">Clima:</string>
+    <string name="Tex_Current">Actual:</string>
+    <string name="Tex_Min">Minimo:</string>
+    <string name="Tex_Max">Maximo:</string>
+    <string name="Tex_CurrentR">Clima Actual</string>
+    <string name="Tex_MinR">Clima Minimo</string>
+    <string name="Tex_MaxR">Clima Maximo</string>
+    <string name="Tex_WeatherR">Estado del Clima</string>
+    <string name="Btn_Search">BUSCAR CLIMA</string>
+    <string name="Btn_Maps">IR AL MAPA</string>
+    <string name="Title">¿COMO ESTÁ EL CLIMA?</string>
+</resources>

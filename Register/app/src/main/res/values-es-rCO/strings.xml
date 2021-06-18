@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Register</string>
+    <string name="user_name">Nombre usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="txt_password">Texto contraseña</string>
+    <string name="first_name">Nombre</string>
+    <string name="Btn_register">REGISTRO</string>
+    <string name="user">Peter McDonald</string>
+    <string name="user_email">peter@email.com</string>
+    <string name="User_list">LISTA USUARIOS</string>
+    <string name="Edit_user">ACTUALIZAR USUARIO</string>
+    <string name="Menu1">Lista de usuarios masculinos</string>
+    <string name="MenuC2">Borrar usuario</string>
+    <string name="Menuc1">Actualizar usuario</string>
+    <string name="Btn_update">ACTUALIZAR</string>
+    <string name="Confirm_name">Confirmar contraseña</string>
+    <string name="Menu3">Lista todos los usuarios</string>
+    <string name="Btn_sign_in">INICIAR SESIÓN</string>
+    <string name="Btn_sign_up">INSCRIBIRSE</string>
+    <string name="last_name">Apellido</string>
+    <string name="Menu2">Lista de usuarios femeninos</string>
+    <string name="Menu4">Acerca de mí</string>
+    <string name="Menu5">Cerrar sesión</string>
+    <string name="Birth">Fecha de nacimiento</string>
+    <string name="Country">País</string>
+    <string name="Phone">Teléfono</string>
+    <string name="Gender">Género</string>
+</resources>
